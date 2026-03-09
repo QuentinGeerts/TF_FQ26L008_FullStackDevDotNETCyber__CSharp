@@ -153,3 +153,11 @@ catch (Exception)
 
     Console.WriteLine($"Exception levée");
 }
+
+// 10. Opérateur de chaînage optionnel
+// variable?.membre
+
+//string myString2 = null;
+string myString2 = "bonjour les copains";
+
+Console.WriteLine($"{myString2?.ToUpper()}");
