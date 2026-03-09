@@ -2,4 +2,5 @@
   <Project Path="Demo05Operateurs/Demo05Operateurs.csproj" />
   <Project Path="Demo06StructuresIteratives/Demo06StructuresIteratives.csproj" />
   <Project Path="ExercicePage134B/ExercicePage134B.csproj" />
+  <Project Path="ExercicePage144A/ExercicePage144A.csproj" />
 </Solution>
