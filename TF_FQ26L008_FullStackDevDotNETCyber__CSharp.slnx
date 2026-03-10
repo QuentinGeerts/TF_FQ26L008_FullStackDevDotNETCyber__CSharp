@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="Demo05Operateurs/Demo05Operateurs.csproj" />
   <Project Path="Demo06StructuresIteratives/Demo06StructuresIteratives.csproj" />
+  <Project Path="Demo07Tableaux/Demo07Tableaux.csproj" Id="ec84ab23-0496-46c0-ade1-e8725750de1e" />
+  <Project Path="Demo08TableauxMulti/Demo08TableauxMulti.csproj" Id="eb2cecc3-cd1e-406b-bd36-1beeff5e48a5" />
   <Project Path="ExercicePage134B/ExercicePage134B.csproj" />
   <Project Path="ExercicePage144A/ExercicePage144A.csproj" />
   <Project Path="ExercicePage144B/ExercicePage144B.csproj" />
