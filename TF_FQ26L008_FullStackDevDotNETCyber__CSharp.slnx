@@ -3,6 +3,8 @@
   <Project Path="Demo06StructuresIteratives/Demo06StructuresIteratives.csproj" />
   <Project Path="Demo07Tableaux/Demo07Tableaux.csproj" Id="ec84ab23-0496-46c0-ade1-e8725750de1e" />
   <Project Path="Demo08TableauxMulti/Demo08TableauxMulti.csproj" Id="eb2cecc3-cd1e-406b-bd36-1beeff5e48a5" />
+  <Project Path="Demo09Collections/Demo09Collections.csproj" Id="16d08afd-7a01-4a69-a745-765c079a62e0" />
+  <Project Path="Demo10CollectionsGeneriques/Demo10CollectionsGeneriques.csproj" Id="e20a99cf-aefb-4c40-af80-261bb6fcef1e" />
   <Project Path="ExercicePage134B/ExercicePage134B.csproj" />
   <Project Path="ExercicePage144A/ExercicePage144A.csproj" />
   <Project Path="ExercicePage144B/ExercicePage144B.csproj" />
